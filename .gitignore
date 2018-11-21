@@ -1,0 +1,4 @@
+errbot.log
+venv
+__pycache__
+.env
