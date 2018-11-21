@@ -1,0 +1,9 @@
+[Core]
+Name = Malih
+Module = malihbot.py
+
+[Documentation]
+Description = This is a malih tongtong
+
+[Python]
+Version = 3
