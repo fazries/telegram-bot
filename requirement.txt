@@ -36,7 +36,7 @@ requests==2.20.1
 rocket-errbot==1.2.5
 six==1.11.0
 urllib3==1.24.1
-waitress==1.1.0
+waitress==2.1.1
 WebOb==1.8.4
 WebTest==2.0.32
 Yapsy==1.12.0
