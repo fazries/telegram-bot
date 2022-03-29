@@ -19,7 +19,7 @@ idna==2.7
 Jinja2==2.10
 Markdown==3.0.1
 MarkupSafe==1.1.0
-paramiko==2.4.2
+paramiko==2.10.1
 pkg-resources==0.0.0
 post==2018.11.20
 public==2018.11.20
